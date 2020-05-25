@@ -1,0 +1,16 @@
+body {
+  background-color: lightgrey;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  flex-grow: 1;
+  text-align: center;
+  max-width: 750px;
+  margin: auto;
+}
+.padding {
+  background-color: rgb(255, 255, 255);
+}
