@@ -13,6 +13,7 @@ Handy application to search Finnkino movies (React.js, Material-UI, Finnkino API
 - Finnkino XML Service (https://www.finnkino.fi/xml/)
 - Axios
 - Chart.js
+- Xml2js
 
 #### Features
 
