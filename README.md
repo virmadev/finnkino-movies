@@ -2,31 +2,35 @@
 
 Handy application to search Finnkino movies (React.js, Material-UI, Finnkino API)
 
-Live website: https://joonasvirmajoki.me/finnkino-movies/
+**Live website:** https://joonasvirmajoki.me/finnkino-movies/
 
-![Image description](https://i.gyazo.com/e375659c07d28aa05f8e2ac5ee5936d4.png)
+---
 
+#### Tools used
 
-### `npm start`
+- Material-UI
+- React.js
+- Finnkino XML Service (https://www.finnkino.fi/xml/)
+- Axios
+- Chart.js
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+#### Features
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+- Select and show areas and movie theaters
+- Select and show available date
+- Show available movies in selected area and date
 
-### `npm test`
+#### Result
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p align="center">
+<b>Desktop Screens</b> <br> <br>
+<img width="46%" height="auto" src="https://i.gyazo.com/e375659c07d28aa05f8e2ac5ee5936d4.png" />
+</p>
 
-### `npm run build`
+<p align="center">
+<b>Mobile Screens</b><br><br>
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img width="46%" height="auto" alt="Responsive UI" src="https://i.gyazo.com/e375659c07d28aa05f8e2ac5ee5936d4.png" />
+</p>
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
