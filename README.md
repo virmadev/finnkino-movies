@@ -24,7 +24,7 @@ Handy application to search Finnkino movies (React.js, Material-UI, Finnkino API
 
 <p align="center">
 <b>Desktop Screens</b> <br> <br>
-<img width="60%" height="auto" src="https://i.gyazo.com/b5a0ed72dfcd2c5287532b669a152eac.png" />
+<img width="80%" height="auto" src="https://i.gyazo.com/b5a0ed72dfcd2c5287532b669a152eac.png" />
 </p>
 
 <p align="center">
