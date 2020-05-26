@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/finnkino-movies/static/css/main.e1e683d8.chunk.css",
+    "main.js": "/finnkino-movies/static/js/main.9550b1d6.chunk.js",
+    "main.js.map": "/finnkino-movies/static/js/main.9550b1d6.chunk.js.map",
+    "runtime-main.js": "/finnkino-movies/static/js/runtime-main.7b3b67b7.js",
+    "runtime-main.js.map": "/finnkino-movies/static/js/runtime-main.7b3b67b7.js.map",
+    "static/js/2.6143c536.chunk.js": "/finnkino-movies/static/js/2.6143c536.chunk.js",
+    "static/js/2.6143c536.chunk.js.map": "/finnkino-movies/static/js/2.6143c536.chunk.js.map",
+    "index.html": "/finnkino-movies/index.html",
+    "precache-manifest.6d544d6117514419e81578635672af6e.js": "/finnkino-movies/precache-manifest.6d544d6117514419e81578635672af6e.js",
+    "service-worker.js": "/finnkino-movies/service-worker.js",
+    "static/css/main.e1e683d8.chunk.css.map": "/finnkino-movies/static/css/main.e1e683d8.chunk.css.map",
+    "static/js/2.6143c536.chunk.js.LICENSE.txt": "/finnkino-movies/static/js/2.6143c536.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b3b67b7.js",
+    "static/js/2.6143c536.chunk.js",
+    "static/css/main.e1e683d8.chunk.css",
+    "static/js/main.9550b1d6.chunk.js"
+  ]
+}
