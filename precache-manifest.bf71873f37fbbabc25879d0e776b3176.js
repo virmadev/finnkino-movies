@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b2c74068ac2ec21a205e2d1e8efe76f4",
+    "revision": "f6db8d4eb3727d1f0ee01520e603f261",
     "url": "/finnkino-movies/index.html"
   },
   {

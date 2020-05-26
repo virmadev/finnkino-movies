@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/finnkino-movies/precache-manifest.6d544d6117514419e81578635672af6e.js"
+  "/finnkino-movies/precache-manifest.bf71873f37fbbabc25879d0e776b3176.js"
 );
 
 self.addEventListener('message', (event) => {
