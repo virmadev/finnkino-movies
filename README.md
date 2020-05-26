@@ -24,13 +24,13 @@ Handy application to search Finnkino movies (React.js, Material-UI, Finnkino API
 
 <p align="center">
 <b>Desktop Screens</b> <br> <br>
-<img width="46%" height="auto" src="https://i.gyazo.com/e375659c07d28aa05f8e2ac5ee5936d4.png" />
+<img width="60%" height="auto" src="https://i.gyazo.com/e375659c07d28aa05f8e2ac5ee5936d4.png" />
 </p>
 
 <p align="center">
 <b>Mobile Screens</b><br><br>
 
-<img width="46%" height="auto" alt="Responsive UI" src="https://i.gyazo.com/de0e1e45b22c6ebda7fa418c672320e0.png" />
+<img width="30%" height="auto" alt="Responsive UI" src="https://i.gyazo.com/de0e1e45b22c6ebda7fa418c672320e0.png" />
 </p>
 
 
