@@ -2,7 +2,7 @@
 
 Handy application to search Finnkino movies (React.js, Material-UI, Finnkino API)
 
-**Live website:** https://joonasvirmajoki.me/finnkino-movies/
+**Live website:** https://jvirma.github.io/finnkino-movies/
 
 ---
 
