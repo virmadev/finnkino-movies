@@ -20,7 +20,6 @@ class App extends React.Component {
     this.setState({ selectedDate: formatDate(fetchedDates[0]) })
     const fetchedSchedules = await fetchSchedules(areaID, formatDate(fetchedDates[0]));
     this.setState({ schedules: fetchedSchedules });
-    console.log(this.state);
   }
 
   handleAreaChange = async (newareaID) => {
