@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f6db8d4eb3727d1f0ee01520e603f261",
+    "revision": "678f581720be1d9d8a450f83e722c538",
     "url": "/finnkino-movies/index.html"
   },
   {
-    "revision": "9566cc1c0466c79eda3e",
+    "revision": "0c13f39a37e90eb14034",
     "url": "/finnkino-movies/static/css/main.e1e683d8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/finnkino-movies/static/js/2.6143c536.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9566cc1c0466c79eda3e",
-    "url": "/finnkino-movies/static/js/main.9550b1d6.chunk.js"
+    "revision": "0c13f39a37e90eb14034",
+    "url": "/finnkino-movies/static/js/main.78aa497d.chunk.js"
   },
   {
     "revision": "3b405f7b204819673c10",

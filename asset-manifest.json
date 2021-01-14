@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/finnkino-movies/static/css/main.e1e683d8.chunk.css",
-    "main.js": "/finnkino-movies/static/js/main.9550b1d6.chunk.js",
-    "main.js.map": "/finnkino-movies/static/js/main.9550b1d6.chunk.js.map",
+    "main.js": "/finnkino-movies/static/js/main.78aa497d.chunk.js",
+    "main.js.map": "/finnkino-movies/static/js/main.78aa497d.chunk.js.map",
     "runtime-main.js": "/finnkino-movies/static/js/runtime-main.7b3b67b7.js",
     "runtime-main.js.map": "/finnkino-movies/static/js/runtime-main.7b3b67b7.js.map",
     "static/js/2.6143c536.chunk.js": "/finnkino-movies/static/js/2.6143c536.chunk.js",
     "static/js/2.6143c536.chunk.js.map": "/finnkino-movies/static/js/2.6143c536.chunk.js.map",
     "index.html": "/finnkino-movies/index.html",
-    "precache-manifest.bf71873f37fbbabc25879d0e776b3176.js": "/finnkino-movies/precache-manifest.bf71873f37fbbabc25879d0e776b3176.js",
+    "precache-manifest.92435ff1421de1fdd9306f751387fe25.js": "/finnkino-movies/precache-manifest.92435ff1421de1fdd9306f751387fe25.js",
     "service-worker.js": "/finnkino-movies/service-worker.js",
     "static/css/main.e1e683d8.chunk.css.map": "/finnkino-movies/static/css/main.e1e683d8.chunk.css.map",
     "static/js/2.6143c536.chunk.js.LICENSE.txt": "/finnkino-movies/static/js/2.6143c536.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7b3b67b7.js",
     "static/js/2.6143c536.chunk.js",
     "static/css/main.e1e683d8.chunk.css",
-    "static/js/main.9550b1d6.chunk.js"
+    "static/js/main.78aa497d.chunk.js"
   ]
 }
