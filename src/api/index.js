@@ -62,7 +62,6 @@ export const fetchSynopsis = async() => {
     .catch(function (err) {
     });
     return modifiedData;
-    
   } catch (error) {
   }
 }

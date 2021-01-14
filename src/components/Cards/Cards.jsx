@@ -3,26 +3,33 @@ import {Card, CardContent, Typography, Grid, CardMedia, Button} from '@material-
 import styles from './Cards.module.css';
 import { fetchSynopsis } from '../../api';
 
-const Cards = ( { schedules }) => {
-  const [synopsis, setSynopsis] = useState([]);
+const Cards = ( { schedules, synopsis }) => {
+
+  /*const [synopsis, setSynopsis] = useState([]);
 
   useEffect(() => {
       const fetchAPI = async () => {
           setSynopsis(await fetchSynopsis());
       }
-      
       fetchAPI();
+
   }, [])
-  console.log(synopsis);
+  console.log(synopsis);*/
+
+
   
 
+  console.log(synopsis)
+  if (synopsis.length > 0) {
+    console.log((synopsis.find( x => x.ID == "303511").ID))
+  }
   
 
   return (
     
     <div className={styles.container}>
       
-      {schedules ? schedules.map((schedule, i) => 
+      {synopsis.length > 0 ? schedules.map((schedule, i) => 
 
           <Grid item mb={2} component={Card} xs={12} className={styles.card} key={i}>
               {schedule.Images[0].EventLargeImageLandscape ?
